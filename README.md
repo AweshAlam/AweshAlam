@@ -1,6 +1,6 @@
 # Hi there, I'm Awesh Alam! 👋
 
-I am a **Full Stack Developer** focused on building efficient, scalable web applications and exploring complex algorithms. I enjoy solving challenging problems and contributing to open-source projects.
+I am a **Full Stack Developer** focused on building efficient, scalable web applications and exploring complex algorithms. I enjoy solving challenging problems and contributing to open-source projects. Also has good knowledge of AI/ML.
 
 ---
 
@@ -8,18 +8,18 @@ I am a **Full Stack Developer** focused on building efficient, scalable web appl
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Java, HTML, JavaScript, CSS |
+| **Languages** | Java, HTML, JavaScript, CSS, Python |
 | **Frontend** | Angular, React, Tailwind CSS |
 | **Backend** | SpringBoot, Node.js, MongoDB, REST APIs |
 | **Tools** | Git, Docker, Postman |
 
 ---
 
-### 🚀 Featured Project: [Secure-Vault]
+### 🚀 Featured Project: Secure-Vault
 > Its like a secure store application which uses faceial id with usename and password.
 
-* **Key Features:** Facial ID, Secure, [Privacy.
-* **Tech Used:** Node.js, MondgoDB, [Render.
+* **Key Features:** Facial ID, Secure, Privacy.
+* **Tech Used:** Node.js, MondgoDB, Render.
 * **Link:** https://secure-vault-7mvj.onrender.com/
 
 ---
