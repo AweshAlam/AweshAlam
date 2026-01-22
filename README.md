@@ -1,4 +1,4 @@
-# Hi there, I'm [Awesh Alam]! 👋
+# Hi there, I'm Awesh Alam! 👋
 
 I am a **Full Stack Developer** focused on building efficient, scalable web applications and exploring complex algorithms. I enjoy solving challenging problems and contributing to open-source projects.
 
@@ -8,32 +8,32 @@ I am a **Full Stack Developer** focused on building efficient, scalable web appl
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | [Java], [HTML], [JavaScript], [CSS] |
-| **Frontend** | [Angular], [React], Tailwind CSS |
-| **Backend** | [SpringBoot], [Node.js], [MongoDB], REST APIs |
-| **Tools** | Git, Docker, [Postman] |
+| **Languages** | Java, HTML, JavaScript, CSS |
+| **Frontend** | Angular, React, Tailwind CSS |
+| **Backend** | SpringBoot, Node.js, MongoDB, REST APIs |
+| **Tools** | Git, Docker, Postman |
 
 ---
 
-### 🚀 Featured Project: [Project Name]
-> A brief one-sentence description of your most proud project and what problem it solves.
+### 🚀 Featured Project: [Secure-Vault]
+> Its like a secure store application which uses faceial id with usename and password.
 
-* **Key Features:** [Feature A], [Feature B], [Feature C].
-* **Tech Used:** [Tech A], [Tech B], [Tech C].
-* **Link:** [Link to Repository or Live Demo]
+* **Key Features:** Facial ID, Secure, [Privacy.
+* **Tech Used:** Node.js, MondgoDB, [Render.
+* **Link:** https://secure-vault-7mvj.onrender.com/
 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AweshAlam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AweshAlam&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your Profile Link]
-- **Portfolio:** [Your Website Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/aweshalam/
+- **Portfolio:** https://aweshalam.onrender.com/
+- **Email:** aweshalam53@gmail.com
 
 ---
 *"The best way to predict the future is to invent it."*
