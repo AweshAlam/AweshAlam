@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Awesh Alam]! 👋
 
-I am a **Software Developer** focused on building efficient, scalable web applications and exploring complex algorithms. I enjoy solving challenging problems and contributing to open-source projects.
+I am a **Full Stack Developer** focused on building efficient, scalable web applications and exploring complex algorithms. I enjoy solving challenging problems and contributing to open-source projects.
 
 ---
 
@@ -8,10 +8,10 @@ I am a **Software Developer** focused on building efficient, scalable web applic
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | [Language 1], [Language 2], [Language 3] |
-| **Frontend** | [Framework 1], [Framework 2], Tailwind CSS |
-| **Backend** | [Framework 1], [Database 1], REST APIs |
-| **Tools** | Git, Docker, [Other Tool] |
+| **Languages** | [Java], [HTML], [JavaScript], [CSS] |
+| **Frontend** | [Angular], [React], Tailwind CSS |
+| **Backend** | [SpringBoot], [Node.js], [MongoDB], REST APIs |
+| **Tools** | Git, Docker, [Postman] |
 
 ---
 
