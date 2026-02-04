@@ -32,7 +32,7 @@ I am a **Full Stack Developer** focused on building efficient, scalable web appl
 
 ### 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/aweshalam/
-- **Portfolio:** https://aweshalam.onrender.com/
+- **Portfolio:** https://aweshalam.in/
 - **Email:** aweshalam53@gmail.com
 
 ---
